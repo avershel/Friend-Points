@@ -15,6 +15,25 @@
 		D99022051D771EDA001B3E99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99022031D771EDA001B3E99 /* LaunchScreen.storyboard */; };
 		D99022101D771EDB001B3E99 /* newfpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D990220F1D771EDB001B3E99 /* newfpTests.m */; };
 		D990221B1D771EDB001B3E99 /* newfpUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D990221A1D771EDB001B3E99 /* newfpUITests.m */; };
+		D9B6FAB31D779C4800BE1028 /* downarrow1.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB11D779C4800BE1028 /* downarrow1.png */; };
+		D9B6FAB41D779C4800BE1028 /* uparrow1.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB21D779C4800BE1028 /* uparrow1.png */; };
+		D9B6FAC61D77A21D00BE1028 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB51D77A21D00BE1028 /* Icon-40.png */; };
+		D9B6FAC71D77A21D00BE1028 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB61D77A21D00BE1028 /* Icon-40@2x.png */; };
+		D9B6FAC81D77A21D00BE1028 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB71D77A21D00BE1028 /* Icon-40@3x.png */; };
+		D9B6FAC91D77A21D00BE1028 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB81D77A21D00BE1028 /* Icon-60@2x.png */; };
+		D9B6FACA1D77A21D00BE1028 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAB91D77A21D00BE1028 /* Icon-60@3x.png */; };
+		D9B6FACB1D77A21D00BE1028 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABA1D77A21D00BE1028 /* Icon-72.png */; };
+		D9B6FACC1D77A21D00BE1028 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABB1D77A21D00BE1028 /* Icon-72@2x.png */; };
+		D9B6FACD1D77A21D00BE1028 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABC1D77A21D00BE1028 /* Icon-76.png */; };
+		D9B6FACE1D77A21D00BE1028 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABD1D77A21D00BE1028 /* Icon-76@2x.png */; };
+		D9B6FACF1D77A21D00BE1028 /* Icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABE1D77A21D00BE1028 /* Icon-83.5@2x.png */; };
+		D9B6FAD01D77A21D00BE1028 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FABF1D77A21D00BE1028 /* Icon-Small-50.png */; };
+		D9B6FAD11D77A21D00BE1028 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC01D77A21D00BE1028 /* Icon-Small-50@2x.png */; };
+		D9B6FAD21D77A21D00BE1028 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC11D77A21D00BE1028 /* Icon-Small.png */; };
+		D9B6FAD31D77A21D00BE1028 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC21D77A21D00BE1028 /* Icon-Small@2x.png */; };
+		D9B6FAD41D77A21D00BE1028 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC31D77A21D00BE1028 /* Icon-Small@3x.png */; };
+		D9B6FAD51D77A21D00BE1028 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC41D77A21D00BE1028 /* Icon.png */; };
+		D9B6FAD61D77A21D00BE1028 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9B6FAC51D77A21D00BE1028 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +54,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D99021F21D771ED6001B3E99 /* newfp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = newfp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D99021F21D771ED6001B3E99 /* Friend Points.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Friend Points.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D99021F61D771ED9001B3E99 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D99021F81D771ED9001B3E99 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D99021F91D771EDA001B3E99 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,12 +64,31 @@
 		D99022011D771EDA001B3E99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D99022041D771EDA001B3E99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D99022061D771EDA001B3E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D990220B1D771EDB001B3E99 /* newfpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newfpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D990220B1D771EDB001B3E99 /* Friend Points.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Friend Points.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D990220F1D771EDB001B3E99 /* newfpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newfpTests.m; sourceTree = "<group>"; };
 		D99022111D771EDB001B3E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D99022161D771EDB001B3E99 /* newfpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newfpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D99022161D771EDB001B3E99 /* Friend Points.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Friend Points.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D990221A1D771EDB001B3E99 /* newfpUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newfpUITests.m; sourceTree = "<group>"; };
 		D990221C1D771EDB001B3E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9B6FAB11D779C4800BE1028 /* downarrow1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = downarrow1.png; path = ../../../downarrow1.png; sourceTree = "<group>"; };
+		D9B6FAB21D779C4800BE1028 /* uparrow1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = uparrow1.png; path = ../../../uparrow1.png; sourceTree = "<group>"; };
+		D9B6FAB51D77A21D00BE1028 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-40.png"; sourceTree = "<group>"; };
+		D9B6FAB61D77A21D00BE1028 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png"; sourceTree = "<group>"; };
+		D9B6FAB71D77A21D00BE1028 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@3x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-40@3x.png"; sourceTree = "<group>"; };
+		D9B6FAB81D77A21D00BE1028 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png"; sourceTree = "<group>"; };
+		D9B6FAB91D77A21D00BE1028 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@3x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png"; sourceTree = "<group>"; };
+		D9B6FABA1D77A21D00BE1028 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-72.png"; sourceTree = "<group>"; };
+		D9B6FABB1D77A21D00BE1028 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-72@2x.png"; sourceTree = "<group>"; };
+		D9B6FABC1D77A21D00BE1028 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-76.png"; sourceTree = "<group>"; };
+		D9B6FABD1D77A21D00BE1028 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-76@2x.png"; sourceTree = "<group>"; };
+		D9B6FABE1D77A21D00BE1028 /* Icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-83.5@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-83.5@2x.png"; sourceTree = "<group>"; };
+		D9B6FABF1D77A21D00BE1028 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-Small-50.png"; sourceTree = "<group>"; };
+		D9B6FAC01D77A21D00BE1028 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		D9B6FAC11D77A21D00BE1028 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-Small.png"; sourceTree = "<group>"; };
+		D9B6FAC21D77A21D00BE1028 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-Small@2x.png"; sourceTree = "<group>"; };
+		D9B6FAC31D77A21D00BE1028 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@3x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon-Small@3x.png"; sourceTree = "<group>"; };
+		D9B6FAC41D77A21D00BE1028 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon.png; sourceTree = "<group>"; };
+		D9B6FAC51D77A21D00BE1028 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "../../../iOS/Assets.xcassets/AppIcon.appiconset/Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,9 +129,9 @@
 		D99021F31D771ED6001B3E99 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D99021F21D771ED6001B3E99 /* newfp.app */,
-				D990220B1D771EDB001B3E99 /* newfpTests.xctest */,
-				D99022161D771EDB001B3E99 /* newfpUITests.xctest */,
+				D99021F21D771ED6001B3E99 /* Friend Points.app */,
+				D990220B1D771EDB001B3E99 /* Friend Points.xctest */,
+				D99022161D771EDB001B3E99 /* Friend Points.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,12 +139,31 @@
 		D99021F41D771ED9001B3E99 /* newfp */ = {
 			isa = PBXGroup;
 			children = (
+				D9B6FAB11D779C4800BE1028 /* downarrow1.png */,
+				D9B6FAB21D779C4800BE1028 /* uparrow1.png */,
 				D99021F81D771ED9001B3E99 /* AppDelegate.h */,
 				D99021F91D771EDA001B3E99 /* AppDelegate.m */,
 				D99021FB1D771EDA001B3E99 /* ViewController.h */,
 				D99021FC1D771EDA001B3E99 /* ViewController.m */,
 				D99021FE1D771EDA001B3E99 /* Main.storyboard */,
 				D99022011D771EDA001B3E99 /* Assets.xcassets */,
+				D9B6FAB51D77A21D00BE1028 /* Icon-40.png */,
+				D9B6FAB61D77A21D00BE1028 /* Icon-40@2x.png */,
+				D9B6FAB71D77A21D00BE1028 /* Icon-40@3x.png */,
+				D9B6FAB81D77A21D00BE1028 /* Icon-60@2x.png */,
+				D9B6FAB91D77A21D00BE1028 /* Icon-60@3x.png */,
+				D9B6FABA1D77A21D00BE1028 /* Icon-72.png */,
+				D9B6FABB1D77A21D00BE1028 /* Icon-72@2x.png */,
+				D9B6FABC1D77A21D00BE1028 /* Icon-76.png */,
+				D9B6FABD1D77A21D00BE1028 /* Icon-76@2x.png */,
+				D9B6FABE1D77A21D00BE1028 /* Icon-83.5@2x.png */,
+				D9B6FABF1D77A21D00BE1028 /* Icon-Small-50.png */,
+				D9B6FAC01D77A21D00BE1028 /* Icon-Small-50@2x.png */,
+				D9B6FAC11D77A21D00BE1028 /* Icon-Small.png */,
+				D9B6FAC21D77A21D00BE1028 /* Icon-Small@2x.png */,
+				D9B6FAC31D77A21D00BE1028 /* Icon-Small@3x.png */,
+				D9B6FAC41D77A21D00BE1028 /* Icon.png */,
+				D9B6FAC51D77A21D00BE1028 /* Icon@2x.png */,
 				D99022031D771EDA001B3E99 /* LaunchScreen.storyboard */,
 				D99022061D771EDA001B3E99 /* Info.plist */,
 				D99021F51D771ED9001B3E99 /* Supporting Files */,
@@ -143,9 +200,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D99021F11D771ED6001B3E99 /* newfp */ = {
+		D99021F11D771ED6001B3E99 /* Friend Points */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D990221F1D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfp" */;
+			buildConfigurationList = D990221F1D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend Points" */;
 			buildPhases = (
 				D99021EE1D771ED6001B3E99 /* Sources */,
 				D99021EF1D771ED6001B3E99 /* Frameworks */,
@@ -155,14 +212,14 @@
 			);
 			dependencies = (
 			);
-			name = newfp;
+			name = "Friend Points";
 			productName = newfp;
-			productReference = D99021F21D771ED6001B3E99 /* newfp.app */;
+			productReference = D99021F21D771ED6001B3E99 /* Friend Points.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D990220A1D771EDB001B3E99 /* newfpTests */ = {
+		D990220A1D771EDB001B3E99 /* Friend PointsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D99022221D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfpTests" */;
+			buildConfigurationList = D99022221D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend PointsTests" */;
 			buildPhases = (
 				D99022071D771EDB001B3E99 /* Sources */,
 				D99022081D771EDB001B3E99 /* Frameworks */,
@@ -173,14 +230,14 @@
 			dependencies = (
 				D990220D1D771EDB001B3E99 /* PBXTargetDependency */,
 			);
-			name = newfpTests;
+			name = "Friend PointsTests";
 			productName = newfpTests;
-			productReference = D990220B1D771EDB001B3E99 /* newfpTests.xctest */;
+			productReference = D990220B1D771EDB001B3E99 /* Friend Points.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D99022151D771EDB001B3E99 /* newfpUITests */ = {
+		D99022151D771EDB001B3E99 /* Friend PointsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D99022251D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfpUITests" */;
+			buildConfigurationList = D99022251D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend PointsUITests" */;
 			buildPhases = (
 				D99022121D771EDB001B3E99 /* Sources */,
 				D99022131D771EDB001B3E99 /* Frameworks */,
@@ -191,9 +248,9 @@
 			dependencies = (
 				D99022181D771EDB001B3E99 /* PBXTargetDependency */,
 			);
-			name = newfpUITests;
+			name = "Friend PointsUITests";
 			productName = newfpUITests;
-			productReference = D99022161D771EDB001B3E99 /* newfpUITests.xctest */;
+			productReference = D99022161D771EDB001B3E99 /* Friend Points.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -207,6 +264,7 @@
 				TargetAttributes = {
 					D99021F11D771ED6001B3E99 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = SV6V239CMW;
 					};
 					D990220A1D771EDB001B3E99 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -218,7 +276,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D99021ED1D771ED5001B3E99 /* Build configuration list for PBXProject "newfp" */;
+			buildConfigurationList = D99021ED1D771ED5001B3E99 /* Build configuration list for PBXProject "Friend Points" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -231,9 +289,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D99021F11D771ED6001B3E99 /* newfp */,
-				D990220A1D771EDB001B3E99 /* newfpTests */,
-				D99022151D771EDB001B3E99 /* newfpUITests */,
+				D99021F11D771ED6001B3E99 /* Friend Points */,
+				D990220A1D771EDB001B3E99 /* Friend PointsTests */,
+				D99022151D771EDB001B3E99 /* Friend PointsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -243,8 +301,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9B6FAB41D779C4800BE1028 /* uparrow1.png in Resources */,
+				D9B6FACD1D77A21D00BE1028 /* Icon-76.png in Resources */,
+				D9B6FAD31D77A21D00BE1028 /* Icon-Small@2x.png in Resources */,
+				D9B6FAD11D77A21D00BE1028 /* Icon-Small-50@2x.png in Resources */,
 				D99022051D771EDA001B3E99 /* LaunchScreen.storyboard in Resources */,
+				D9B6FAD61D77A21D00BE1028 /* Icon@2x.png in Resources */,
+				D9B6FACC1D77A21D00BE1028 /* Icon-72@2x.png in Resources */,
+				D9B6FACE1D77A21D00BE1028 /* Icon-76@2x.png in Resources */,
+				D9B6FAD01D77A21D00BE1028 /* Icon-Small-50.png in Resources */,
+				D9B6FAC61D77A21D00BE1028 /* Icon-40.png in Resources */,
+				D9B6FAD21D77A21D00BE1028 /* Icon-Small.png in Resources */,
+				D9B6FACB1D77A21D00BE1028 /* Icon-72.png in Resources */,
+				D9B6FAB31D779C4800BE1028 /* downarrow1.png in Resources */,
+				D9B6FAD51D77A21D00BE1028 /* Icon.png in Resources */,
+				D9B6FAC71D77A21D00BE1028 /* Icon-40@2x.png in Resources */,
+				D9B6FAC91D77A21D00BE1028 /* Icon-60@2x.png in Resources */,
+				D9B6FACA1D77A21D00BE1028 /* Icon-60@3x.png in Resources */,
+				D9B6FACF1D77A21D00BE1028 /* Icon-83.5@2x.png in Resources */,
 				D99022021D771EDA001B3E99 /* Assets.xcassets in Resources */,
+				D9B6FAC81D77A21D00BE1028 /* Icon-40@3x.png in Resources */,
+				D9B6FAD41D77A21D00BE1028 /* Icon-Small@3x.png in Resources */,
 				D99022001D771EDA001B3E99 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,12 +374,12 @@
 /* Begin PBXTargetDependency section */
 		D990220D1D771EDB001B3E99 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D99021F11D771ED6001B3E99 /* newfp */;
+			target = D99021F11D771ED6001B3E99 /* Friend Points */;
 			targetProxy = D990220C1D771EDB001B3E99 /* PBXContainerItemProxy */;
 		};
 		D99022181D771EDB001B3E99 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D99021F11D771ED6001B3E99 /* newfp */;
+			target = D99021F11D771ED6001B3E99 /* Friend Points */;
 			targetProxy = D99022171D771EDB001B3E99 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -413,10 +490,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = newfp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "vershel.Friend-Points";
+				PRODUCT_NAME = "Friend Points";
 			};
 			name = Debug;
 		};
@@ -424,10 +502,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = newfp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "vershel.Friend-Points";
+				PRODUCT_NAME = "Friend Points";
 			};
 			name = Release;
 		};
@@ -438,8 +517,8 @@
 				INFOPLIST_FILE = newfpTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfpTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/newfp.app/newfp";
+				PRODUCT_NAME = "Friend Points";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Friend Points.app/Friend Points";
 			};
 			name = Debug;
 		};
@@ -450,8 +529,8 @@
 				INFOPLIST_FILE = newfpTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfpTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/newfp.app/newfp";
+				PRODUCT_NAME = "Friend Points";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Friend Points.app/Friend Points";
 			};
 			name = Release;
 		};
@@ -461,7 +540,7 @@
 				INFOPLIST_FILE = newfpUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfpUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Friend Points";
 				TEST_TARGET_NAME = newfp;
 			};
 			name = Debug;
@@ -472,7 +551,7 @@
 				INFOPLIST_FILE = newfpUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vershel.newfpUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Friend Points";
 				TEST_TARGET_NAME = newfp;
 			};
 			name = Release;
@@ -480,7 +559,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D99021ED1D771ED5001B3E99 /* Build configuration list for PBXProject "newfp" */ = {
+		D99021ED1D771ED5001B3E99 /* Build configuration list for PBXProject "Friend Points" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D990221D1D771EDB001B3E99 /* Debug */,
@@ -489,29 +568,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D990221F1D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfp" */ = {
+		D990221F1D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend Points" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D99022201D771EDB001B3E99 /* Debug */,
 				D99022211D771EDB001B3E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		D99022221D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfpTests" */ = {
+		D99022221D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend PointsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D99022231D771EDB001B3E99 /* Debug */,
 				D99022241D771EDB001B3E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		D99022251D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "newfpUITests" */ = {
+		D99022251D771EDB001B3E99 /* Build configuration list for PBXNativeTarget "Friend PointsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D99022261D771EDB001B3E99 /* Debug */,
 				D99022271D771EDB001B3E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

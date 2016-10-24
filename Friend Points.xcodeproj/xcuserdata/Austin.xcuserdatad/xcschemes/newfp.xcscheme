@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D99021F11D771ED6001B3E99"
-               BuildableName = "newfp.app"
-               BlueprintName = "newfp"
-               ReferencedContainer = "container:newfp.xcodeproj">
+               BuildableName = "Friend Points.app"
+               BlueprintName = "Friend Points"
+               ReferencedContainer = "container:Friend Points.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D990220A1D771EDB001B3E99"
-               BuildableName = "newfpTests.xctest"
-               BlueprintName = "newfpTests"
-               ReferencedContainer = "container:newfp.xcodeproj">
+               BuildableName = "Friend Points.xctest"
+               BlueprintName = "Friend PointsTests"
+               ReferencedContainer = "container:Friend Points.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D99022151D771EDB001B3E99"
-               BuildableName = "newfpUITests.xctest"
-               BlueprintName = "newfpUITests"
-               ReferencedContainer = "container:newfp.xcodeproj">
+               BuildableName = "Friend Points.xctest"
+               BlueprintName = "Friend PointsUITests"
+               ReferencedContainer = "container:Friend Points.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D99021F11D771ED6001B3E99"
-            BuildableName = "newfp.app"
-            BlueprintName = "newfp"
-            ReferencedContainer = "container:newfp.xcodeproj">
+            BuildableName = "Friend Points.app"
+            BlueprintName = "Friend Points"
+            ReferencedContainer = "container:Friend Points.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D99021F11D771ED6001B3E99"
-            BuildableName = "newfp.app"
-            BlueprintName = "newfp"
-            ReferencedContainer = "container:newfp.xcodeproj">
+            BuildableName = "Friend Points.app"
+            BlueprintName = "Friend Points"
+            ReferencedContainer = "container:Friend Points.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D99021F11D771ED6001B3E99"
-            BuildableName = "newfp.app"
-            BlueprintName = "newfp"
-            ReferencedContainer = "container:newfp.xcodeproj">
+            BuildableName = "Friend Points.app"
+            BlueprintName = "Friend Points"
+            ReferencedContainer = "container:Friend Points.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
